@@ -50,10 +50,11 @@ def game_hash
         :blocks => 11, 
         :slam_dunks => 1}
         ]
-    }
+    },
     :away => {
-      :team_name
-      :colors
-      :players
+      :team_name => "Charlotte Hornets",
+      :colors => "Turqoise", "Purple",
+      :players => [
+        ]
     }
   }
